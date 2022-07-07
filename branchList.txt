@@ -1,0 +1,5 @@
+Branch ID	Branch Location
+1	Kuala Lumpur
+2	Selangor
+3	Ipoh
+4	Penang

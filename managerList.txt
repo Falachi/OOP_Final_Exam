@@ -1,0 +1,5 @@
+Manager ID	Branch ID	Name	Contact Number	Salary	Date Joined
+1	1	Hameed	340452385	12000	2019-07-11
+2	2	Jonathan	341078957	20000	2020-01-13
+3	3	Petucia	196459587	15000	2021-04-06
+4	4	Nell	392816352	17000	2021-11-08

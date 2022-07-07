@@ -1,0 +1,9 @@
+Vehicle ID	Vehicle Owner	Branch Charge	Type of Service	Contact Number	Insurance Details
+1	Arnold	2	Breakdown	340452385	139587
+2	Fey	3	Delivery	196459587	400572
+3	Gerald	2	Tow	341078957	177547
+4	Ahmad	1	Delivery	320781664	499176
+5	Yuni	4	Delivery	362512159	986464
+6	Derrick	3	Breakdown	320781664	396254
+7	Ben	1	Breakdown	377293546	198732
+8	Elizabeth	1	Tow	379569794	176078
